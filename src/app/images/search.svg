@@ -1,0 +1,6 @@
+<!-- <svg width="60" height="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol id="a"><g fill="none" fill-rule="evenodd" transform="translate(6 5)" stroke-linejoin="round" stroke-width="1.5"><circle cx="8" cy="8" r="8"/><path d="M19.571 19.571L14.43 14.43" stroke-linecap="round"/></g></symbol><use x="0" xlink:href="#a" stroke="#fff"/><use x="30" xlink:href="#a" stroke="#90ccff"/></svg> -->
+
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.2793 17.4844C13.6976 17.4844 17.2793 13.9027 17.2793 9.48438C17.2793 5.0661 13.6976 1.48438 9.2793 1.48438C4.86102 1.48438 1.2793 5.0661 1.2793 9.48438C1.2793 13.9027 4.86102 17.4844 9.2793 17.4844Z" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M20.85 21.0551L15.709 15.9141" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
